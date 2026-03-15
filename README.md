@@ -14,3 +14,7 @@ Se não estiver baixado instale ele, pode ser via apt.
 ```bash
 sudo apt install android-tools-adb
 ```
+
+
+# Exemplo de telefone apos o debloat:
+
