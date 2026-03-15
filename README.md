@@ -9,3 +9,8 @@ Antes de rodar meu script certifique-se de que o ADB esta instalado em seu siste
 ```bash
 adb --version
 ```
+Se não estiver baixado instale ele, pode ser via apt.
+
+```bash
+sudo apt install android-tools-adb
+```
