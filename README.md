@@ -2,7 +2,7 @@ Criei este script para hibernar diversos aplicativos que eu não utilizava no me
 
 Vou deixar uma lista da minha configuração de debloat no Galaxy A15 para quem quiser utilizar o Android da mesma forma que eu. Para utilizá-la, use o aplicativo Universal Android Debloat.
 
-Link UAD: https://github.com/0x192/universal-android-debloater
+Universal Android Debloat
 
 Antes de rodar meu script, certifique-se de que o ADB está instalado em seu sistema, rodando o comando.
 
