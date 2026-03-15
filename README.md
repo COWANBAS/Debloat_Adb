@@ -4,3 +4,8 @@ Vou deixar uma lista da minha configuração de debloat no Galaxy A15 para quem 
 
 link UAD: https://github.com/0x192/universal-android-debloater
 
+Antes de rodar meu script certifique-se de que o ADB esta instalado em seu sistema rodando o comando.
+
+```bash
+adb --version
+```
