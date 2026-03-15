@@ -1,4 +1,4 @@
-Criei este script para hibernar diversos aplicativos que eu não utilizava no meu Android. O celular utilizado para aplicar essas mudanças foi o Samsung Galaxy A15. Leia atentamente o que será hibernado; se não quiser que algum item seja hibernado, remova-o da lista.
+Criei este script para hibernar diversos aplicativos que eu não utilizava no meu Android. O celular utilizado para aplicar essas mudanças foi o Samsung Galaxy A15. Leia atentamente o que será hibernado ou removido, se não quiser que algum item seja hibernado, remova-o da lista.
 
 Vou deixar uma lista da minha configuração de debloat no Galaxy A15 para quem quiser utilizar o Android da mesma forma que eu. Para utilizá-la, use o aplicativo Universal Android Debloat.
 
