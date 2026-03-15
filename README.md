@@ -16,5 +16,5 @@ sudo apt install android-tools-adb
 ```
 
 
-# Exemplo de telefone apos o debloat:
+# Celular apos o debloat
 
