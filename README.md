@@ -1,1 +1,1 @@
-Criei este script para hibernar diversos aplicativos que eu não utilizava no meu Android. O celular utilizado para aplicar essas mudanças foi o Samsung Galaxy A15. Lembrando: utilize o script por sua conta e risco.
+Criei este script para hibernar diversos aplicativos que eu não utilizava no meu Android. O celular utilizado para aplicar essas mudanças foi o Samsung Galaxy A15. Leia atentamente o que sera hibernado se não quiser que seja remova da lista.
