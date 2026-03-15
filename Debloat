@@ -1,0 +1,179 @@
+# Google Chrome
+com.android.chrome
+
+# STK (Sim Toolkit)
+com.android.stk
+
+# STK2 (Sim Toolkit 2)
+com.android.stk2
+
+# Facebook App Manager
+com.facebook.appmanager
+
+# Facebook Services
+com.facebook.services
+
+# Facebook System
+com.facebook.system
+
+# Google Voice Access
+com.google.android.apps.accessibility.voiceaccess
+
+# Google Maps
+com.google.android.apps.maps
+
+# Google Cell Broadcast Receiver
+com.google.android.cellbroadcastreceiver
+
+# Google Cell Broadcast Service
+com.google.android.cellbroadcastservice
+
+# Google Location History
+com.google.android.gms.location.history
+
+# Google Quick Search Box
+com.google.android.googlequicksearchbox
+
+# Google Gearhead Projection
+com.google.android.projection.gearhead
+
+# Google Calendar Sync Adapter
+com.google.android.syncadapters.calendar
+
+# YouTube
+com.google.android.youtube
+
+# Google Accessibility Scribe
+com.google.audio.hearing.visualization.accessibility.scribe
+
+# Microsoft OneDrive
+com.microsoft.skydrive
+
+# Opera Max OEM
+com.opera.max.oem
+
+# OSP Sign-in
+com.osp.app.signin
+
+# Samsung Routines
+com.samsung.android.app.routines
+
+# Samsung App Separation
+com.samsung.android.appseparation
+
+# Samsung AR Emoji
+com.samsung.android.aremoji
+
+# Samsung AR Emoji Editor
+com.samsung.android.aremojieditor
+
+# Samsung AuthFW
+com.samsung.android.authfw
+
+# Samsung DBSC
+com.samsung.android.dbsc
+
+# Samsung Fast
+com.samsung.android.fast
+
+# Samsung Forest
+com.samsung.android.forest
+
+# Samsung IPS Geofence
+com.samsung.android.ipsgeofence
+
+# Samsung Messaging
+com.samsung.android.messaging
+
+# Samsung Rampart
+com.samsung.android.rampart
+
+# Samsung Rubin App
+com.samsung.android.rubin.app
+
+# Samsung Pass
+com.samsung.android.samsungpass
+
+# Samsung Pass Autofill
+com.samsung.android.samsungpassautofill
+
+# Samsung Cloud
+com.samsung.android.scloud
+
+# Samsung SCPM
+com.samsung.android.scpm
+
+# Samsung SCS
+com.samsung.android.scs
+
+# Samsung Theme Center
+com.samsung.android.themecenter
+
+# Samsung Theme Store
+com.samsung.android.themestore
+
+# Samsung Knox Secure Folder
+com.samsung.knox.securefolder
+
+# Samsung Camera
+com.sec.android.app.camera
+
+# Samsung Chrome Customizations
+com.sec.android.app.chromecustomizations
+
+# Samsung Apps
+com.sec.android.app.samsungapps
+
+# Samsung Daemon App
+com.sec.android.daemonapp
+
+# Samsung Avatar Stickers
+com.sec.android.mimage.avatarstickers
+
+# Samsung SoAgent
+com.sec.android.soagent
+
+# Samsung User Manual
+com.sec.android.usermanual
+
+# WSSyncMLDM
+com.wssyncmldm
+
+# Google Carrier Wi-Fi
+com.google.android.apps.carrier.carrierwifi
+
+# Google AS OSS
+com.google.android.as.oss
+
+# Samsung SPP Push
+com.sec.spp.push
+
+# Google TTS (Text-to-Speech)
+com.google.android.tts
+
+# Samsung Maps Agent
+com.samsung.android.mapsagent
+
+# Google AS
+com.google.android.as
+
+# Samsung Update Center
+com.samsung.android.app.updatecenter
+
+# Samsung Easy Mover
+com.sec.android.easyMover
+
+# Samsung Easy Mover Agent
+com.sec.android.easyMover.Agent
+
+# Samsung OMC Agent
+com.samsung.android.app.omcagent
+
+# Samsung Pay FW
+com.samsung.android.spayfw
+
+# Samsung Pay
+com.samsung.android.spay
+
+# Samsung Story Service
+com.samsung.storyservice
