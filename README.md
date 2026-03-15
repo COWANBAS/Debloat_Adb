@@ -15,6 +15,8 @@ Se não estiver baixado instale ele, pode ser via apt.
 sudo apt install android-tools-adb
 ```
 
+Tome cuidado ao utilizar minhas configurações de debloat pois ele remove aplicativos que eu normalmente substituo por open sources por exemplo a Camera o SMS da Samsung e assim sussetivamente olhe com cuidado o que sera removido no debloat.
+
 
 # Celular apos o debloat
 
