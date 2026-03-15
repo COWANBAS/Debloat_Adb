@@ -1,0 +1,1 @@
+Criei esse script para hibernar diversos aplicativos que eu não utilizava no meu android, o celular utilizado para aplicar essas mudanças foram o Samsung Galaxy A15 lembrando use o script por sua conta e risco.
