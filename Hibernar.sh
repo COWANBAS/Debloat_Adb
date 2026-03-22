@@ -348,15 +348,6 @@ adb shell cmd appops set com.samsung.knox.securefolder WIFI_SCAN deny
 adb shell cmd appops set com.samsung.knox.securefolder BODY_SENSORS deny
 adb shell pm disable-user --user 0 com.samsung.knox.securefolder
 
-# Camera
-echo "Hibernando: com.sec.android.app.camera"
-adb shell cmd appops set com.sec.android.app.camera RUN_IN_BACKGROUND deny
-adb shell cmd appops set com.sec.android.app.camera WAKE_LOCK deny
-adb shell cmd appops set com.sec.android.app.camera RUN_ANY_IN_BACKGROUND deny
-adb shell cmd appops set com.sec.android.app.camera WIFI_SCAN deny
-adb shell cmd appops set com.sec.android.app.camera BODY_SENSORS deny
-adb shell pm disable-user --user 0 com.sec.android.app.camera
-
 # Chrome Customizations
 echo "Hibernando: com.sec.android.app.chromecustomizations"
 adb shell cmd appops set com.sec.android.app.chromecustomizations RUN_IN_BACKGROUND deny
